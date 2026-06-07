@@ -1,4 +1,3 @@
-# 💫 About Me:
 Building what doesn’t exist yet. <br>
 Blending engineering, product, and business to shape the future. <br>
 
