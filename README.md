@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm Simonas. I'm specializing in backend development with Spring Boot. I have experience in banking, payments, e-commerce, and warehouse management systems, with a background in mobile development. <br>
+Building what doesn’t exist yet. <br>
+Blending engineering, product, and business to shape the future. <br>
 
 
 # 💻 Tech Stack:
